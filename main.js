@@ -5,3 +5,4 @@ console.log('T_2' + x);
 var x = 30;
 
 console.log(10)
+console.log(20);
